@@ -17,7 +17,7 @@ This is a simple banking application with a graphical user interface (GUI) built
 ![Deposit Money](screenshots/deposit_money.png)
 
 ### Withdraw Money
-![Withdraw Money](screenshots/wwithdraw_money.png)
+![Withdraw Money](screenshots/withdraw_money.png)
 
 ## Prerequisites
 
