@@ -7,7 +7,6 @@ This is a simple banking application with a graphical user interface (GUI) built
 - **Deposit Money**: Users can deposit any positive amount into their account.
 - **Withdraw Money**: Users can withdraw any amount as long as it's within their current balance.
 - **Check Balance**: Users can check their current account balance.
-- 
 ## Screenshots
 
 ### Main Window
